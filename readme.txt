@@ -1,4 +1,6 @@
-Hello, if you are reading this chances are I am applying for a job.
+Hello, if you are reading this chances are I am applying for a
+job and linked this repositort as an example of some recent code
+I've worked on.
 
 This is a library of cross-ecma-compliant versions of standard
 methods I've been working on for some time, for a few reasons.
