@@ -1,0 +1,9 @@
+void function(){
+
+  "use strict";
+
+  /**
+   * 
+   */
+
+}()
